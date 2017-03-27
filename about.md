@@ -2,6 +2,6 @@
 
 This dataset is based on a wide variety of sources, some already open, some open but hard to find, and many that haven't been publicly available before. Apart from highlighting the important progress that has been made in openning grid and other energy-related data, this tool serves to demonstrate how far there is still to go.
 
-For more information on this data, please visit the dataset that is hosted on ENERGYDATA.INFO: [Africa - Electricity Transmission and Distribution (2017)](https://energydata.info/dataset/africa-electricity-transmission-and-distribution-2017). Please also visit the many other [datasets](https://energydata.info/dataset) and [apps](https://energydata.info/apps) that have been made available on this platform.
+For more information and copyright information, please visit the full dataset: [Africa - Electricity Transmission and Distribution (2017)](https://energydata.info/dataset/africa-electricity-transmission-and-distribution-2017). Please also explore the many other [datasets](https://energydata.info/dataset) and [apps](https://energydata.info/apps) that have been made available on this platform.
 
 The World Bank Group welcomes the opportunity to collaborate further with data providers and users in making more data, visualizations and tools publicly available. Please contact our team at [energydata@worldbankgroup.org](mailto:energydata@worldbankgroup.org) if you are interested in collaborating further with energydata.info.
